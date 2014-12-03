@@ -4,7 +4,7 @@
 
     <groupId>com.genialgenetics</groupId>
     <artifactId>testgit</artifactId>
-    <version>1.4-SNAPSHOT</version>
+    <version>1.3-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:https://github.com/stevemee/testgit</developerConnection>
@@ -21,7 +21,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <!-- The Base URL of Nexus instance where we want to stage -->
-                    <nexusUrl>http://mvn.genialgenetics.com/nexus/</nexusUrl>
+                    <nexusUrl>http://mvn.genialgenetics.com/nexus/Release</nexusUrl>
                     <!-- The server "id" element from settings to use authentication from -->
                     <serverId>ggs-internal-releases</serverId>
                 </configuration>
