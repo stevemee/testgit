@@ -8,13 +8,13 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/stevemee/testgit</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
 
     <distributionManagement>
         <repository>
-            <id>Releases</id>
-            <url>http://mvn.genialgenetics.com/nexus/content/repositories/releases/</url>
+            <id>ggs-internal-releases</id>
+            <url>http://mvn.genialgenetics.com/nexus/</url>
         </repository>
     </distributionManagement>
 
