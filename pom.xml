@@ -14,7 +14,7 @@
     <distributionManagement>
         <repository>
             <id>ggs-internal-releases</id>
-            <url>http://mvn.genialgenetics.com/repositories/internal/</url>
+            <url>http://mvn.genialgenetics.com/archiva/repositories/internal/</url>
         </repository>
     </distributionManagement>
 
